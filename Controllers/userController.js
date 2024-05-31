@@ -1,7 +1,7 @@
 //userController.js
 const User = require('../Models/userModel');
 const avatar = require('../Models/avatarModel');
-const bcrypt = require('bcrypt');
+const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
 const nodemailer = require('nodemailer');
 const crypto = require('crypto');
