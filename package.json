@@ -6,7 +6,7 @@
   "scripts": {
     "start":"node server.js"
   },
-  "author": "SHANMUGAM R",
+  "author": " SARAVANAN",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",
